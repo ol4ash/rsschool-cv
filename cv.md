@@ -22,7 +22,9 @@ SKILLS
 EDUCATION
 -----
 _SEPT 2003 - JUNE 2008_ Faculty of marketing, Belarusian State Economic Univercity
+
 _SEPT 2008 - JUNE 2010_	Faculty of further training and retraining, Belarusian State Academy of Arts
+
 _SEPT 2007 - JUNE 2008_	Streamline English courses_
 
 ENGLISH LEVEL
