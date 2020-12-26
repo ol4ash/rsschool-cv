@@ -3,7 +3,7 @@ Hi!
 My name is **Volha Shaukavets**.
 I'm a junior front-end developer.
 
-[mail][1]       [instagram][2]      [facebook][3]
+[mail][1].           [instagram][2].        [facebook][3]. 
 
 ABOUT ME
 ------
